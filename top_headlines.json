@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fed: Brighter forecast but challenging months still ahead",
+            "description": "Despite optimism over coronavirus vaccine distribution, other economic signals have worsened.",
+            "url": "http://www.bbc.co.uk/news/business-55337325",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DA6/production/_116122277_hi064797413.jpg",
+            "publishedAt": "2020-12-16T23:37:20.931525Z",
+            "content": "Prospects for the US economy have brightened since September, despite a recent surge in coronavirus cases, America's central bank said on Wednesday.\r\nFederal Reserve officials said they expected grow\u2026 [+3232 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Doctor learns she lost her 27th patient to Covid-19 while on her way to get vaccine - CNN Video",
+            "description": "As Dr. Valerie Briones-Pryor was on her way to get the Covid-19 vaccine, she learned she lost her 27th patient to the virus. She speaks with CNN's Dana Bash about the experience.",
+            "url": "http://us.cnn.com/videos/health/2020/12/15/dr-valerie-briones-pryor-coronavirus-vaccine-patient-death-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201215164807-doctor-vaccine-27th-patient-dies-super-tease.jpg",
+            "publishedAt": "2020-12-16T22:37:33.0444916Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jen Christensen, CNN",
+            "title": "Who should, and should not get the Covid-19 vaccine",
+            "description": "The Pfizer/BioNTech Covid-19 vaccine being rolled out across the US should be safe for just about anyone -- even the frailest elderly people.",
+            "url": "http://us.cnn.com/2020/12/16/health/who-should-and-shouldnt-get-covid-19-vaccine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201215160414-03-new-york-covid-vaccine-1214-super-tease.jpg",
+            "publishedAt": "2020-12-16T22:28:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris and Eric Levenson, CNN",
+            "title": "California adds over 40,000 new Covid-19 cases in one day as Americans await vaccine rollout",
+            "description": "Help is on the way. But for many Americans, it may not be soon enough.",
+            "url": "http://us.cnn.com/2020/12/16/health/us-coronavirus-wednesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201216003333-new-york-holiday-market-1212-restricted-super-tease.jpg",
+            "publishedAt": "2020-12-16T22:12:10Z",
+            "content": "(CNN)Help is on the way. But for many Americans, it may not be soon enough.\r\nMore Americans received their first dose of the Pfizer-BioNTech Covid-19 vaccine Wednesday, and federal health officials c\u2026 [+8064 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "LAURAN NEERGAARD",
+            "title": "Health officials track safety as COVID-19 vaccines roll out",
+            "description": "As COVID-19 vaccinations roll out to more and more people, health authorities are keeping close watch for any unexpected side effects.On Tuesday, a health worker in Alaska suffered a severe...",
+            "url": "https://apnews.com/df6091385dab3607b04d7fc7cf0ac7f5",
+            "urlToImage": "",
+            "publishedAt": "2020-12-16T21:41:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ellie Kaufman and Sara Murray, CNN",
+            "title": "Supply issues hampering Pfizer providing additional vaccine faster",
+            "description": "Vaccine supply constraints are complicating the Trump administration's hopes of striking a deal with Pfizer to purchase another 100 million doses of the company's coronavirus vaccines, the latest hurdle to ramping up vaccine production as the virus rapidly sp\u2026",
+            "url": "http://us.cnn.com/2020/12/16/politics/coronavirus-vaccine-pfizer-supply-issues/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201214130138-21-pfizer-coronavirus-vaccine-1214-connecticut-super-tease.jpg",
+            "publishedAt": "2020-12-16T21:39:12Z",
+            "content": "(CNN)Vaccine supply constraints are complicating the Trump administration's hopes of striking a deal with Pfizer to purchase another 100 million doses of the company's coronavirus vaccines, the lates\u2026 [+4903 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jim Acosta and Caroline Kelly, CNN",
+            "title": "Trump won't be getting vaccine until it's recommended by medical team",
+            "description": "President Donald Trump won't be administered a coronavirus vaccine until it's recommended by the White House medical team, a White House official told CNN on Wednesday.",
+            "url": "http://us.cnn.com/2020/12/16/politics/donald-trump-vaccine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201209094335-05-trump-operation-warp-speed-1208-super-tease.jpg",
+            "publishedAt": "2020-12-16T20:26:16Z",
+            "content": "(CNN)President Donald Trump won't be administered a coronavirus vaccine until it's recommended by the White House medical team, a White House official told CNN on Wednesday.\r\nThe official said Trump \u2026 [+2929 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Benjamin Katz, Doug Cameron, Alison Sider",
+            "title": "Covid-19 Vaccines Are Coming. Airlines Are Rushing To Deliver Them.",
+            "description": "Pandemic-ravaged aviation industry is repurposing planes and adding cold-storage facilities to distribute the shots",
+            "url": "https://www.wsj.com/articles/covid-19-vaccines-are-coming-airlines-are-rushing-to-deliver-them-11608147229?mod=hp_lead_pos7",
+            "urlToImage": "https://images.wsj.net/im-274316/social",
+            "publishedAt": "2020-12-16T19:33:00Z",
+            "content": "Airlines are using passenger jets for cargo-only flights and revamping handling procedures. Airports, meantime, are bolstering security at depots handling the shots and adding or expanding cold-stora\u2026 [+10312 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Covid live updates: FDA authorizes first at-home Covid test; Moderna vaccine highly effective",
+            "description": "The FDA authorized the first at-home over-the-counter Covid test by Ellume. Meanwhile, the Moderna vaccine is found to be highly effective according to FDA documents.",
+            "url": "https://www.nbcnews.com/news/us-news/live-blog/2020-12-16-covid-live-updates-vaccine-news-n1251352",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_50/3435464/201214-covid-live-blog-social-only_a49ae68c6fa28968f35f6a9d17035a55.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-12-16T11:14:08Z",
+            "content": "Germany enters latest lockdown as virus deaths spike\r\nGermany hit a new record number of coronavirus deaths as it entered its latest lockdown Wednesday, closing all-non essential shops and sending mo\u2026 [+2309 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Kara Fox, Jessie Yeung and Adam Renton, CNN",
+            "title": "Coronavirus update: Latest vaccine and world news",
+            "description": "The coronavirus pandemic has brought countries to a standstill. Meanwhile, vaccinations have already started in some countries as cases continue to rise. Follow here for the latest.",
+            "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-16-20/h_690358f20dbde7615d6aaf570fd210bd",
+            "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/ec8d8d59-7260-494f-9140-2d9e01938462.jpg",
+            "publishedAt": "2020-12-16T05:00:05Z",
+            "content": "On a conference call on Wednesday, Senate Majority Leader Mitch McConnell suggested that votes on final passage of a stimulus deal could slip into the weekend, and he prepared his members to be ready\u2026 [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Your COVID-19 vaccine questions, answered: What are the side effects? What are the Pfizer vaccine 'ingredients?'",
+            "description": "As the FDA gets closer to approving Pfizer's COVID-19 vaccine, we take a look at your questions about the vaccine, like side effects, safety and more.",
+            "url": "https://www.usatoday.com/story/news/health/2020/12/02/covid-vaccine-pfizer-moderna-astrazeneca-what-to-know/6476436002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/fc9ce1da-4507-4424-aa16-d258b65551ab-AFP_AFP_8VD4WR.jpg?crop=3899,2193,x0,y0&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-12-03T23:51:34+00:00",
+            "content": "We asked you to tell us your biggest questions about the COVID-19 vaccines. Here are some answers.\r\nUSA TODAY\r\nThe Food and Drug Administration on Friday authorized the first coronavirus vaccine for \u2026 [+13906 chars]"
+        }
+    ]
+}
